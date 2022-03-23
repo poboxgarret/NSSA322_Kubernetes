@@ -2,8 +2,9 @@
 
 # Garret Arcoraci
 # 14 October 2021
+# updated 23 March 2022
 # script that runs
-# https://kubernetes.io/docs/setup/production-environment/container-runtime
+# https://kubernetes.io/docs/setup/production-environment/container-runtimes/
 
 yum install -y vim yum-utils device-mapper-persistent-data lvm2
 yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
