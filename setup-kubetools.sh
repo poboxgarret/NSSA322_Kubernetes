@@ -2,7 +2,7 @@
 # kubeadm installation instructions as on
 # https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
-# this script supports centos 7 and Ubuntu 20.04 only
+# this script supports centos 7 minimal only
 # run this script with sudo
 
 if ! [ $USER = root ]
